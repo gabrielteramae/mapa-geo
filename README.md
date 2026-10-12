@@ -40,8 +40,8 @@ src/lib/norte/places.ts
 ## Como rodar
 
 ```bash
-git clone https://github.com/gabrielteramae/norte.git
-cd norte
+git clone https://github.com/gabrielteramae/mapa-geo.git
+cd mapa-geo
 npm install
 npm run dev
 ```
